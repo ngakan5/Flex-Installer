@@ -8,7 +8,8 @@ FlexInstaller is an open source installation wizard builder/generator written in
 It is highly customizable trough the config file. It features all features that a normal installer has but FlexInstaller exceeds at its ease of use.
 FlexInstaller downloads your software trough a dropbox url.
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+<img src="https://github.com/user-attachments/assets/5ed6c998-8659-446a-80f2-d3918bade3e6" width="600" alt="Flex Installer Logo" />
+
 # ***Features*** 
 
 -Includes uninstaller so users can easily uninstall your software trough windows settings.
@@ -58,7 +59,6 @@ See the [license](FlexInstaller/license) file for terms.
 # ***Contributing***
 Issues and pull requests for improvements and features are welcome.
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
 
 
 
