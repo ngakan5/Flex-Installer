@@ -1,61 +1,68 @@
-Flex Installer
-![Repo Size](https://img.shields.io/github/repo-size/iamsopotatoe-chttps://img.shields.io/github/last-commit/iamsopotatoehttps://img.shields.io/badgehttps://img.shields.io/github/license/iamsopotatoe-coder** is a program written in C# that allows you to distribute personal or commercial software in a more elegant, customizable way. Flex Installer includes an integrated uninstaller for easy removal through Windows Settings and can download your software from a Dropbox URL.
+![GitHub repo size](https://img.shields.io/github/repo-size/iamsopotatoe-coder/Flex-Installer?style=flat-square)
+[![GitHub stars](https://img.shields.io/github/stars/iamsopotatoe-coder/Flex-Installer?style=flat-square&logo=github&logoColor=white)](https://github.com/iamsopotatoe-coder/Flex-Installer/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/iamsopotatoe-coder/Flex-Installer?style=flat-square&logo=github&logoColor=white)](https://github.com/iamsopotatoe-coder/Flex-Installer/issues)
 
-Table of Contents
-Features
+# Flex Installer
 
-Requirements
+FlexInstaller is an open source installation wizard builder/generator written in c#.
+It is highly customizable trough the config file. It features all features that a normal installer has but FlexInstaller exceeds at its ease of use.
+FlexInstaller downloads your software trough a dropbox url.
 
-Installation
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+# ***Features*** 
 
-Instructions
+-Includes uninstaller so users can easily uninstall your software trough windows settings.
 
-License
+-Easy to setup
 
-Contributing
+-Highly customizable trough the config file
 
-Support
+-The ui includes all features that other installers have
 
-Features
-Customizable installation flow
+# ***Requirements***
 
-Integrated uninstaller (removal via Windows Settings)
+-Windows OS
 
-Downloads files hosted on Dropbox for easy distribution
+-Microsoft Visual C++ Build Tools (required to build and run Flex Installer)
 
-Requirements
-Windows OS
+***Download link:***
 
-Microsoft Visual C++ Build Tools (required to build and run Flex Installer)
+-<a href="https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170" target="_blank" rel="noopener noreferrer">Official MSVC Build Tools</a>
 
-Download links:
 
-Official MSVC Build Tools
+# ***Installation***
 
-Microsoft Docs
+1. ***Go to the releases section and download the latest release***
+2. ***Edit the config file to your liking***
+3. ***Set up you dropbox download link (more detailed instructions in the instructions file)***
+4. ***Replace the "dl=0" at the end of the link to "dl=1" (VERY IMPORTANT)***
+5. ***Put your dropbox link into the config file***
+6. ***Run build.bat and enjoy!***
 
-GitHub (alternative)
+# ***Installer UI***
 
-Installation
-Install Microsoft Visual C++ Build Tools (see Requirements).
+<img width="487" height="371" alt="Screenshot 2025-11-10 133612" src="https://github.com/user-attachments/assets/50de9d3b-c204-4b4d-a440-553f267d7a16" />
 
-Clone the repository:
+<img width="488" height="375" alt="Screenshot 2025-11-10 133620" src="https://github.com/user-attachments/assets/a74f1ba4-789d-4456-886c-723f9476fcc1" />
 
-bash
-git clone https://github.com/iamsopotatoe-coder/Flex-Installer.git
-Open the solution in Visual Studio or a C# IDE.
+<img width="498" height="375" alt="Screenshot 2025-11-10 133931" src="https://github.com/user-attachments/assets/72280ea6-f3a0-4084-b6bb-af1bb3b142b1" />
 
-Build the project.
+<img width="486" height="369" alt="Screenshot 2025-11-10 133629" src="https://github.com/user-attachments/assets/cde0a01b-7e42-4e36-8530-0060199315f1" />
 
-Instructions
-Detailed usage and customization instructions are in instructions.txt located in the main branch of this repository.
-Read instructions.txt before making any changes or deploying the installer.
+# ***Uninstaller UI***
 
-License
-See LICENSE for terms.
+<img width="491" height="373" alt="Screenshot 2025-11-10 134137" src="https://github.com/user-attachments/assets/cde8c340-6230-4d16-ae57-f1171e35a191" />
 
-Contributing
+<img width="493" height="372" alt="Screenshot 2025-11-10 134143" src="https://github.com/user-attachments/assets/23bf4704-c0dd-460c-9011-3ee293d26094" />
+
+# ***License*** 
+See <a href="https://github.com/iamsopotatoe-coder/Flex-Installer/blob/main/LICENSE" target="_blank" rel="noopener noreferrer">LICENSE</a> for terms.
+
+
+# ***Contributing***
 Issues and pull requests for improvements and features are welcome.
 
-Support
-Open an issue in this repository for help or contact the maintainer via GitHub.
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
+
+
+
