@@ -1,5 +1,5 @@
 Flex Installer
-![GitHub repo size](https://img.shields.io/github/repo-size/iamsopotatoe-chttps://img.shields.io/github/last-commit/iamsopotatoehttps://img.shields.io/badgehttps://img.shields.io/github/license/iamsopotatoe-coder** is a program written in C# designed to help you distribute personal or commercial software in a more elegant and user-friendly manner. The installer is fully customizable and features an integrated uninstaller, which allows users to seamlessly remove your applications via Windows Settings. Flex Installer can download your software from a specified Dropbox URL.
+![Repo Size](https://img.shields.io/github/repo-size/iamsopotatoe-chttps://img.shields.io/github/last-commit/iamsopotatoehttps://img.shields.io/badgehttps://img.shields.io/github/license/iamsopotatoe-coder** is a program written in C# that allows you to distribute personal or commercial software in a more elegant, customizable way. Flex Installer includes an integrated uninstaller for easy removal through Windows Settings and can download your software from a Dropbox URL.
 
 Table of Contents
 Features
@@ -17,46 +17,45 @@ Contributing
 Support
 
 Features
-Customizable installation experience
+Customizable installation flow
 
 Integrated uninstaller (removal via Windows Settings)
 
-Supports files hosted on Dropbox for easy distribution
+Downloads files hosted on Dropbox for easy distribution
 
 Requirements
 Windows OS
 
-Microsoft Visual C++ Build Tools (required for compiling and running Flex Installer)
+Microsoft Visual C++ Build Tools (required to build and run Flex Installer)
 
-Download and install the latest Microsoft Visual C++ Build Tools from:
+Download links:
 
-Official Microsoft Visual Studio Build Tools Download
+Official MSVC Build Tools
 
-Alternative MSVC Build Tools (GitHub)
+Microsoft Docs
 
-Microsoft Documentation
+GitHub (alternative)
 
 Installation
-Ensure you have the required Microsoft Visual C++ Build Tools installed.
-See Requirements for download links.
+Install Microsoft Visual C++ Build Tools (see Requirements).
 
 Clone the repository:
 
 bash
 git clone https://github.com/iamsopotatoe-coder/Flex-Installer.git
-Open the solution in your C# IDE (e.g., Visual Studio).
+Open the solution in Visual Studio or a C# IDE.
 
 Build the project.
 
 Instructions
-Detailed instructions for customizing and using Flex Installer can be found in instructions.txt in the main branch.
-Please read this file before modifying settings or deploying the installer.
+Detailed usage and customization instructions are in instructions.txt located in the main branch of this repository.
+Read instructions.txt before making any changes or deploying the installer.
 
 License
-This project is licensed under the terms of the repository's license.
+See LICENSE for terms.
 
 Contributing
-Contributions are welcome. Please open an issue or submit a pull request for any improvements or feature requests.
+Issues and pull requests for improvements and features are welcome.
 
 Support
-For support, open an issue in this repository or contact the maintainer via GitHub.
+Open an issue in this repository for help or contact the maintainer via GitHub.
