@@ -60,6 +60,11 @@ See the [license](FlexInstaller/license) file for terms.
 # ***Contributing***
 Issues and pull requests for improvements and features are welcome.
 
+# ***Thank you all!***
+
+Thanks everyone from Reddit for the feedback and support!
+Planning to add GitHub-based distribution next (suggested by the community).
+Iam working and planning on more improvements and i appreciate all the feedback!
 
 
 
