@@ -3,6 +3,9 @@
 [![GitHub issues](https://img.shields.io/github/issues/iamsopotatoe-coder/Flex-Installer?style=flat-square&logo=github&logoColor=white)](https://github.com/iamsopotatoe-coder/Flex-Installer/issues)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/iamsopotatoe-coder/Flex-Installer)
 [![License](https://img.shields.io/badge/license-Custom-orange)](https://github.com/iamsopotatoe-coder/Flex-Installer/blob/main/FlexInstaller/LICENSE)
+![GitHub last commit](https://img.shields.io/github/last-commit/iamsopotatoe-coder/Flex-Installer?style=flat-square&logo=github&logoColor=white)
+[![GitHub forks](https://img.shields.io/github/forks/iamsopotatoe-coder/Flex-Installer?style=flat-square&logo=github&logoColor=white)](https://github.com/iamsopotatoe-coder/Flex-Installer/network/members)
+![GitHub downloads](https://img.shields.io/github/downloads/iamsopotatoe-coder/Flex-Installer/total?style=flat-square&logo=github&logoColor=white)
 # Flex Installer
 
 FlexInstaller is an open source installation wizard builder/generator written in c#.
