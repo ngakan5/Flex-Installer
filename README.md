@@ -39,7 +39,7 @@ FlexInstaller downloads your software trough a dropbox url.
 
 1. ***Go to the releases section and download the latest release***
 2. ***Edit the config file to your liking***
-3. ***Set up you dropbox or Github releases download link (more detailed instructions in the instructions file)***
+3. ***Set up your dropbox or Github releases download link (more detailed instructions in the instructions file)***
 4. (IF USING DROPBOX) ***Replace the "dl=0" at the end of the link to "dl=1" (VERY IMPORTANT)***
 5. ***Put your dropbox or Github link into the config file***
 6. ***Run build.bat and enjoy!***
