@@ -39,9 +39,9 @@ FlexInstaller downloads your software trough a dropbox url.
 
 1. ***Go to the releases section and download the latest release***
 2. ***Edit the config file to your liking***
-3. ***Set up you dropbox download link (more detailed instructions in the instructions file)***
-4. ***Replace the "dl=0" at the end of the link to "dl=1" (VERY IMPORTANT)***
-5. ***Put your dropbox link into the config file***
+3. ***Set up you dropbox or Github releases download link (more detailed instructions in the instructions file)***
+4. (IF USING DROPBOX) ***Replace the "dl=0" at the end of the link to "dl=1" (VERY IMPORTANT)***
+5. ***Put your dropbox or Github link into the config file***
 6. ***Run build.bat and enjoy!***
 
 [![Download](https://img.shields.io/github/v/release/iamsopotatoe-coder/Flex-Installer?style=for-the-badge&logo=github&label=Download%20Latest&color=00ADD8&labelColor=000000&logoColor=white)](https://github.com/iamsopotatoe-coder/Flex-Installer/releases/latest)
@@ -67,7 +67,6 @@ Issues and pull requests for improvements and features are welcome.
 # ***Thank you all!***
 
 Thanks everyone from Reddit for the feedback and support!
-Planning to add GitHub-based distribution next (suggested by the community).
 Iam working and planning on more improvements and i appreciate all the feedback!
 
 [![Star on GitHub](https://img.shields.io/badge/Star%20on%20GitHub-0ea5e9?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/iamsopotatoe-coder/Flex-Installer)
